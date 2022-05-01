@@ -1,5 +1,5 @@
 # Go-DDoS
-
+<img align="right" src="./zorro.svg" height="140"> 
 A DDoS attack is a cybercrime in which the attacker floods a server with internet traffic to prevent users from accessing connected online services and sites.
 
 In this repository, I show how a simple DDoS works but remember __It is for educational use only__, don't execute this script in real world applications.
@@ -16,7 +16,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd go-ddos
 ```
 
 
@@ -35,5 +35,3 @@ After started a server locally in http://localhost:8080, we just have to write t
 ```javascript
   go run main http://localhost:8080 300
 ```
-
-<img src= "./zorro.svg" width="450px">
