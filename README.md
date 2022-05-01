@@ -1,4 +1,4 @@
-# Go-DDoS
+<h1 align="center">Go-DDoS 💥</h1>
 <img align="right" src="./zorro.svg" height="169"> 
 A DDoS attack is a cybercrime in which the attacker floods a server with internet traffic to prevent users from accessing connected online services and sites.
 
