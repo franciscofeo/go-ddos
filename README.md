@@ -33,5 +33,5 @@ Start the application
 After started a server locally in http://localhost:8080, we just have to write this code below to execute the attack with 300 workers:
 
 ```bash
-  go run main http://localhost:8080 300
+  go run main.go http://localhost:8080 300
 ```
